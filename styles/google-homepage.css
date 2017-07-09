@@ -73,12 +73,16 @@ box-shadow: 0 6px 6px 0 rgba(0,0,0,0.16),0 0 0 1px rgba(0,0,0,0.08);
 	right: 0px;
 	position: absolute;
 	color: #666;
+	margin-right: 5px;
+	margin-top: 5px;
+	
 }
 .footer{
 	bottom: 0px;
 	left: 0px;
 	position: absolute;
 	color: #666;
+	margin-left: 5px;
 }
 .userimg{
 	
@@ -115,6 +119,7 @@ ul{
 }
 li{
 	display: inline;
+	padding: 3px;
 }
 a{
 	text-decoration: none;
